@@ -30,11 +30,10 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Lifecycle Stages</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+In this project, we’ll simulate helpdesk tickets and resolve them step-by-step. Before starting, ensure the Maintenance department is removed to prevent tickets from being routed there. Log in as an admin, go to Agents -> Departments, select Maintenance, click More, and delete it. Now, open a new ticket by visiting http://localhost/osTicket. For this example, create a ticket about a user named Karen, reporting that the company’s mobile/online banking system is down.
 <br />
 
 <p>
