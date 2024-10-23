@@ -43,14 +43,13 @@ In this project, we’ll simulate helpdesk tickets and resolve them step-by-step
 
 </p>
 <p>
-Since this is an online banking issue I will use agents that I created in the Post-Installation Configuration lab. John Doe is capable of working this ticket but Jane Doe is a member of the Online Banking team. Therefore she is the best agent to use in order to work this ticket to completion. I will now log on to the ticket portal using her credentials.
-</p>
-<br />
+Since this is an online banking issue I will use agents that I created in the Post-Installation Configuration lab. John Doe is capable of working this ticket but Jane Doe is a member of the Online Banking team. Therefore she is the best agent to use in order to work this ticket to completion. I will now log on to the ticket portal using her credentials. Then click on the ticket and under the assign to tab select Jane Doe. If I were working this ticket I would post a reply to the client to let them know that I will have it resolved soon.
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+ Also since I spoke to Karen and have determined that this issue needs to resolved immediately I will change the SLA plan to Sev-A so that it will be resolved quickly.
+  
+  <img src="https://i.imgur.com/hUFo3y0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+Next Jane discovered that the cause of the outage was the recent update, she resolved the issue and posts to the message board and closes the ticket.
+
+<img src="https://i.imgur.com/idv3uJK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
