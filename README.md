@@ -39,11 +39,11 @@ In this project, we’ll simulate helpdesk tickets and resolve them step-by-step
 <p>
 <img src="https://i.imgur.com/fVAXVHR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
-<img src="https://i.imgur.com/2Fum3iK.png"/>" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/2Fum3iK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Since this is an online banking issue I will use agents that I created in the Post-Installation Configuration lab. John Doe is capable of working this ticket but Jane Doe is a member of the Online Banking team. Therefore she is the best agent to use in order to work this ticket to completion. I will now log on to the ticket portal using her credentials.
 </p>
 <br />
 
