@@ -63,3 +63,8 @@ Since Jon works in support he accepts the ticket and posts and internal note to 
 
 Next we will set the SLA to Sev-B because this is a department wide outage.
 
+<img src="https://i.imgur.com/4Qsj95E.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+After troubleshooting the issue, Jon verified Adobe licenses in the Admin Console and found that the licenses had been unassigned due to a sync error.
+Solution: Re-assigned licenses to all affected users and instructed them to log out and log back in. Confirmed with the department that the issue is now resolved and then closed the ticket.
+
