@@ -53,3 +53,12 @@ Next Jane discovered that the cause of the outage was the recent update, she res
 
 <img src="https://i.imgur.com/idv3uJK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
+Next an end user named Ken reports that the Adobe software in the accounting department is down so he submits a ticket in the on the website.
+
+<img src="https://i.imgur.com/3eZBI2z.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+Since Jon works in support he accepts the ticket and posts and internal note to the team letting them know that he will be taking the ticket
+
+
+
+
