@@ -59,6 +59,7 @@ Next an end user named Ken reports that the Adobe software in the accounting dep
 
 Since Jon works in support he accepts the ticket and posts and internal note to the team letting them know that he will be taking the ticket
 
+<img src="https://i.imgur.com/Ey22uWV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
-
+Next we will set the SLA to Sev-B because this is a department wide outage.
 
